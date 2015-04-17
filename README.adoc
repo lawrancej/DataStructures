@@ -1,3 +1,9 @@
 = Hello, Data structures!
 
 Trees and stuff.
+
+Let's get started
+
+----
+curl https://raw.githubusercontent.com/lawrancej/DataStructures/master/main.sh | bash
+----
